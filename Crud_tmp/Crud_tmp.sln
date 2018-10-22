@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud_tmp", "Crud_tmp\Crud_tmp.csproj", "{5293ABF5-4CAF-4B58-8139-821FAAAC8EBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastucture", "DB_Model\Infrastucture.csproj", "{61E76B48-84B9-4FBD-BA70-503559BF8BB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5293ABF5-4CAF-4B58-8139-821FAAAC8EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5293ABF5-4CAF-4B58-8139-821FAAAC8EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5293ABF5-4CAF-4B58-8139-821FAAAC8EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5293ABF5-4CAF-4B58-8139-821FAAAC8EBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61E76B48-84B9-4FBD-BA70-503559BF8BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E76B48-84B9-4FBD-BA70-503559BF8BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E76B48-84B9-4FBD-BA70-503559BF8BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E76B48-84B9-4FBD-BA70-503559BF8BB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82380B84-BD8F-4985-8EAF-E32357540BF6}
+	EndGlobalSection
+EndGlobal

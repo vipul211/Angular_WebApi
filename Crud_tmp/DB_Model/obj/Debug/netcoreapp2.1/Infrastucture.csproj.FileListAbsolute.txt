@@ -1,0 +1,9 @@
+D:\vipul\Crud_tmp\DB_Model\bin\Debug\netcoreapp2.1\Infrastucture.deps.json
+D:\vipul\Crud_tmp\DB_Model\bin\Debug\netcoreapp2.1\Infrastucture.dll
+D:\vipul\Crud_tmp\DB_Model\bin\Debug\netcoreapp2.1\Infrastucture.pdb
+D:\vipul\Crud_tmp\DB_Model\obj\Debug\netcoreapp2.1\Infrastucture.csprojAssemblyReference.cache
+D:\vipul\Crud_tmp\DB_Model\obj\Debug\netcoreapp2.1\Infrastucture.csproj.CoreCompileInputs.cache
+D:\vipul\Crud_tmp\DB_Model\obj\Debug\netcoreapp2.1\Infrastucture.AssemblyInfoInputs.cache
+D:\vipul\Crud_tmp\DB_Model\obj\Debug\netcoreapp2.1\Infrastucture.AssemblyInfo.cs
+D:\vipul\Crud_tmp\DB_Model\obj\Debug\netcoreapp2.1\Infrastucture.dll
+D:\vipul\Crud_tmp\DB_Model\obj\Debug\netcoreapp2.1\Infrastucture.pdb

@@ -1,0 +1,24 @@
+<table class="table table-hover">
+  <thead>
+  <tr>
+      <td>First Name</td>
+      <td>Last Name</td>
+      <td>Birth Date</td>
+      <td>Phone</td>
+      <td>Email</td>
+      <td colspan="2">Actions</td>
+  </tr>
+  </thead>
+
+  <tbody>
+      <tr *ngFor="let employee of employees">
+          <td>{{ employee.firstName }}</td>
+          <td>{{ employee.lastName }}</td>
+          <td>{{ employee.birthDate }}</td>
+          <td>{{ employee.phoneNo }}</td>
+          <td>{{ employee.email }}</td>
+          <td><a [routerLink]="['/Edit', employee.id]" class="btn btn-primary">Edit</a></td>
+          <td><a [routerLink]="" class="btn btn-danger">Delete</a></td>
+      </tr>
+  </tbody>
+</table>

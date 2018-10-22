@@ -1,0 +1,17 @@
+D:\vipul\Crud_tmp\Crud_tmp\bin\Debug\netcoreapp2.1\Crud_tmp.deps.json
+D:\vipul\Crud_tmp\Crud_tmp\bin\Debug\netcoreapp2.1\Crud_tmp.runtimeconfig.json
+D:\vipul\Crud_tmp\Crud_tmp\bin\Debug\netcoreapp2.1\Crud_tmp.runtimeconfig.dev.json
+D:\vipul\Crud_tmp\Crud_tmp\bin\Debug\netcoreapp2.1\Crud_tmp.dll
+D:\vipul\Crud_tmp\Crud_tmp\bin\Debug\netcoreapp2.1\Crud_tmp.pdb
+D:\vipul\Crud_tmp\Crud_tmp\bin\Debug\netcoreapp2.1\Infrastucture.dll
+D:\vipul\Crud_tmp\Crud_tmp\bin\Debug\netcoreapp2.1\Infrastucture.pdb
+D:\vipul\Crud_tmp\Crud_tmp\obj\Debug\netcoreapp2.1\Crud_tmp.csprojAssemblyReference.cache
+D:\vipul\Crud_tmp\Crud_tmp\obj\Debug\netcoreapp2.1\Crud_tmp.csproj.CoreCompileInputs.cache
+D:\vipul\Crud_tmp\Crud_tmp\obj\Debug\netcoreapp2.1\Crud_tmp.RazorAssemblyInfo.cache
+D:\vipul\Crud_tmp\Crud_tmp\obj\Debug\netcoreapp2.1\Crud_tmp.RazorAssemblyInfo.cs
+D:\vipul\Crud_tmp\Crud_tmp\obj\Debug\netcoreapp2.1\Crud_tmp.AssemblyInfoInputs.cache
+D:\vipul\Crud_tmp\Crud_tmp\obj\Debug\netcoreapp2.1\Crud_tmp.AssemblyInfo.cs
+D:\vipul\Crud_tmp\Crud_tmp\obj\Debug\netcoreapp2.1\Crud_tmp.RazorTargetAssemblyInfo.cache
+D:\vipul\Crud_tmp\Crud_tmp\obj\Debug\netcoreapp2.1\Crud_tmp.csproj.CopyComplete
+D:\vipul\Crud_tmp\Crud_tmp\obj\Debug\netcoreapp2.1\Crud_tmp.dll
+D:\vipul\Crud_tmp\Crud_tmp\obj\Debug\netcoreapp2.1\Crud_tmp.pdb

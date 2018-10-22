@@ -1,0 +1,5 @@
+D:\vipul\Crud_tmp\DB_Model\bin\Debug\netcoreapp2.1\DB_Model.deps.json
+D:\vipul\Crud_tmp\DB_Model\bin\Debug\netcoreapp2.1\DB_Model.dll
+D:\vipul\Crud_tmp\DB_Model\obj\Debug\netcoreapp2.1\DB_Model.csproj.CoreCompileInputs.cache
+D:\vipul\Crud_tmp\DB_Model\obj\Debug\netcoreapp2.1\DB_Model.AssemblyInfoInputs.cache
+D:\vipul\Crud_tmp\DB_Model\obj\Debug\netcoreapp2.1\DB_Model.AssemblyInfo.cs
